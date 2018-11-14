@@ -1,6 +1,6 @@
 {
-  "esxi_host": "",
-  "esxi_datastore": "primary",
-  "esxi_username": "",
-  "esxi_password": ""
+  "esxi_host": "192.168.0.63",
+  "esxi_datastore": "SHARED_DS",
+  "esxi_username": "root",
+  "esxi_password": "Renegade187!"
 }
